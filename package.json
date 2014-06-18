@@ -14,17 +14,17 @@
     "client"
   ],
   "repository": {
-    "url": "git@github.com:azer/flickr-photo-urls.git",
+    "url": "git@github.com:npm-flickr/flickr-photo-urls.git",
     "type": "git"
   },
   "author": "azer",
   "license": "BSD",
   "dependencies": {
     "variable-name": "0.0.1",
-    "with-env": "^0.1.0",
-    "flickr-client": "0.0.2"
+    "flickr-client": "0.0.x"
   },
   "devDependencies": {
+    "with-env": "^0.1.0",
     "prova": "^1.11.1"
   }
 }
