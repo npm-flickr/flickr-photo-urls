@@ -1,6 +1,6 @@
 {
   "name": "flickr-photo-urls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get source urls with varied sizes of a Flickr photo",
   "main": "index.js",
   "scripts": {
